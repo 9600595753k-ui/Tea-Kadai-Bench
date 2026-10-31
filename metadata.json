@@ -1,0 +1,6 @@
+{
+  "name": "Tea Kadai Bench",
+  "description": "Live audio rooms and community clubhouse inspired by the authentic Tea Kadai roadside bench—spontaneous conversations, real-time voice, and end-to-end encrypted chats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

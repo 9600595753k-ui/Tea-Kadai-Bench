@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Tea Kadai Bench - Chai Glass, Rising Aromatic Steam Waves, and Kadai Bench Plank -->
+    
+    <!-- Steam / Sound waves -->
+    <path
+        android:fillColor="#FFC857"
+        android:pathData="M46,24 C44,28 47,32 45,36 L47,36 C49,32 46,28 48,24 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M54,20 C52,25 56,29 54,34 L56,34 C58,29 54,25 56,20 Z" />
+    <path
+        android:fillColor="#FFC857"
+        android:pathData="M62,24 C60,28 63,32 61,36 L63,36 C65,32 62,28 64,24 Z" />
+
+    <!-- Cutting Chai Glass (Traditional fluted tea kadai glass) -->
+    <!-- Glass rim -->
+    <path
+        android:fillColor="#F5EFE6"
+        android:pathData="M38,36 L70,36 C71,36 71.5,37 71,38 L65,66 C64.5,68 63,69 61,69 L47,69 C45,69 43.5,68 43,66 L37,38 C36.5,37 37,36 38,36 Z" />
+    
+    <!-- Golden hot chai liquid inside glass -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M40.5,42 L67.5,42 L63.5,65 C63.2,66.5 62,67.5 60.5,67.5 L47.5,67.5 C46,67.5 44.8,66.5 44.5,65 Z" />
+
+    <!-- Frothy Chai layer -->
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M40.5,42 L67.5,42 L67,45.5 L41,45.5 Z" />
+
+    <!-- Glass Fluting reflections -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.35"
+        android:pathData="M43,45 L45,45 L47,65 L45,65 Z" />
+
+    <!-- The Famous Tea Kadai Wooden Bench (Where all stories begin) -->
+    <path
+        android:fillColor="#92400E"
+        android:pathData="M24,72 L84,72 C85.5,72 86,73 86,74 L86,77 C86,78 85.5,79 84,79 L24,79 C22.5,79 22,78 22,77 L22,74 C22,73 22.5,72 24,72 Z" />
+    <path
+        android:fillColor="#B45309"
+        android:pathData="M24,72 L84,72 L84,74 L24,74 Z" />
+
+    <!-- Bench Legs -->
+    <path
+        android:fillColor="#78350F"
+        android:pathData="M30,79 L34,79 L33,88 L29,88 Z" />
+    <path
+        android:fillColor="#78350F"
+        android:pathData="M74,79 L78,79 L79,88 L75,88 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for ClubAudio: a privacy-first live audio room and club experience inspired by Clubhouse. Features real-time voice streaming with live mic waveform visualization, glowing active-speaker indicators, stage hand-raising, moderator mute controls, segmented topic chatboxes, photo sharing, end-to-end encrypted messaging, customizable contact tagging (Friends & Family), and full dark mode.",
+  "updatedAt":  "2026-10-31T06:17:40.967324424Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
